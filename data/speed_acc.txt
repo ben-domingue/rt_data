@@ -2713,10 +2713,10 @@ id block condition stim stim_cat frequency response rt censor acc
 2 9 speed 1496 word high word 0.536 FALSE TRUE
 2 9 speed 3645 word very_low error 6.272 TRUE FALSE
 2 9 speed 4813 nonword nw_high word 5.996 TRUE FALSE
-2 9 speed 5554 nonword nw_low error 147.12 TRUE FALSE
+2 9 speed 5554 nonword nw_low error NA TRUE FALSE
 2 9 speed 1727 word high word 0.117 TRUE TRUE
 2 9 speed 1649 word high word 0.153 TRUE TRUE
-2 9 speed 5034 nonword nw_low word 1174.8 TRUE FALSE
+2 9 speed 5034 nonword nw_low word NA TRUE FALSE
 2 9 speed 1645 word high nonword 0.238 FALSE FALSE
 2 9 speed 5164 nonword nw_low nonword 0.071 TRUE TRUE
 2 9 speed 5133 nonword nw_low error 0.347 TRUE FALSE
